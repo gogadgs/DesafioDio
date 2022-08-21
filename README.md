@@ -1,2 +1,2 @@
 # DesafioDio
-Criar primeiro repostorio no gitHub!!
+Criar primeiro repositório no gitHub!!
